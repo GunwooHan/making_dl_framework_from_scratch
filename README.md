@@ -1,6 +1,8 @@
 # making_dl_framework_from_scratch
 밑바닥부터 시작하는 딥러닝3
 
+편집테스트
+
 # timeline
 ---
 - 2020-12-27 step 10 완료
